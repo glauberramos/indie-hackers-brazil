@@ -20,3 +20,7 @@ This is a repository with links to products, blog posts and stuff to help us be 
 ### Business and Legal
 
 * [osome](https://osome.com/)
+
+### Community
+* http://indiehackersbrazil.com/
+* https://indiehackersbrazil.slack.com
